@@ -1,0 +1,15 @@
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money Manager.csproj.AssemblyReference.cache
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money_Manager.Properties.Resources.resources
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\yt_DesignUI.frmMain.resources
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money_Manager.WinFormsUserInterface_master.yt_DesignUI.Properties.Resources.resources
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money Manager.csproj.GenerateResource.cache
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money Manager.csproj.CoreCompileInputs.cache
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\bin\Debug\Money Manager.exe.config
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\bin\Debug\Money Manager.exe
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\bin\Debug\Money Manager.pdb
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money Manager.exe
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money Manager.pdb
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money_Manager.main_form.resources
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money_Manager.forms.operation_form.resources
+C:\Users\n_332\Documents\GitHub\Money Manager\Money Manager\Money Manager\obj\Debug\Money_Manager.forms.people_form.resources
